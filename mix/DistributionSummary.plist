@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mix.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BF5B460044AFEDC7CB5E88110684883B2D4EF3C3</string>
+				<key>dateExpires</key>
+				<string>2020/10/10</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>BF5B460044AFEDC7CB5E88110684883B2D4EF3C3</string>
+						<key>dateExpires</key>
+						<string>2020/10/10</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>2TEXXRXK22.com.jlongg.mix.NotificationService</string>
+						<key>com.apple.developer.team-identifier</key>
+						<string>2TEXXRXK22</string>
+						<key>com.apple.security.application-groups</key>
+						<array>
+							<string>group.person.jizhi.com</string>
+						</array>
+						<key>get-task-allow</key>
+						<false/>
+					</dict>
+					<key>name</key>
+					<string>NotificationService.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>98541358-e861-42ec-ae2e-b6d3d4f41a1f</string>
+						<key>name</key>
+						<string>iOS Team Ad Hoc Provisioning Profile: com.jlongg.mix.NotificationService</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2TEXXRXK22</string>
+						<key>name</key>
+						<string>Chengdu JiZhiShengHuo Technology Co., Ltd</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>2TEXXRXK22.com.jlongg.mix</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>2TEXXRXK22</string>
+				<key>com.apple.security.application-groups</key>
+				<array>
+					<string>group.person.jizhi.com</string>
+				</array>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>2TEXXRXK22.com.jlongg.mix</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>mix.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>49d5a2a6-bc83-44d2-a516-9cf06843bc77</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.jlongg.mix</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>2TEXXRXK22</string>
+				<key>name</key>
+				<string>Chengdu JiZhiShengHuo Technology Co., Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
