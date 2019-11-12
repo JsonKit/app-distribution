@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://jgj.test.com/apps/mix.ipa</string>
+					<string>https://github.com/JsonKit/app-distribution/blob/master/mix/mix.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://jgj.test.com/apps/image57x57.png</string>
+					<string>https://raw.githubusercontent.com/JsonKit/app-distribution/master/mix/image.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://jgj.test.com/apps/image512x512.png</string>
+					<string>https://raw.githubusercontent.com/JsonKit/app-distribution/master/mix/image.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
